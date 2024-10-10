@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: red;
+}
+
+.center-div {
+    display: flex;
+    width: 50%;
+    margin-top: 25%;
+    margin-left: 25%;
+   
+    align-items: center;
+    justify-content: center;
+
+    }
+
+ p{
+    font: 5em sans-serif;
+
+        color:white;
+    }
